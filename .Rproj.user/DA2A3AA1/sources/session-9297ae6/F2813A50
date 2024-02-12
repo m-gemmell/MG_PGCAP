@@ -1,9 +1,9 @@
 {
     "id": "F2813A50",
     "path": "F:/Git/PGCAP/NEOF_slides_1.qmd",
-    "project_path": "NEOF_slides_1.qmd",
+    "project_path": null,
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3734981198",
     "contents": "",
     "dirty": false,
     "created": 1704365721167.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,21",
+        "cursorPosition": "0,29",
         "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualCollapsedChunks": "",
@@ -21,11 +21,11 @@
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1707747021,
+    "lastKnownWriteTime": 1707747375,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1707747021366,
+    "last_content_update": 1707747375833,
     "read_only": false,
     "read_only_alternatives": []
 }
