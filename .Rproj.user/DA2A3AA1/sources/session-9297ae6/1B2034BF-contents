@@ -1,0 +1,12 @@
+project:
+  title: "Introduction to command line bioinformatics"
+format:
+  revealjs:
+    logo: "./figures/linux_beginner.png"
+    highlight-style: github
+    slide-number: true
+    theme: 
+      - style.scss
+
+
+
