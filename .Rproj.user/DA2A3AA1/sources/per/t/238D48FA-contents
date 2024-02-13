@@ -31,13 +31,12 @@ $body-bg: $WhiteSmoke;
 
 // horizontal line
 // Set it to use NEOF background as colour
-
 hr {
   display:block;
   border:0px;
   height:10px;
   border-radius: 5px;
-  background-image: url("/figures/NEOF_blue_bg_180_degrees.png");
+  background-image: url("/figures/NEOF_bg_180_degrees.jpg");
 }
 
 // slide title (large)
@@ -51,7 +50,7 @@ hr {
 // Header 2 i.e. the slide headers
 h2 {
   font-family: $font-family-serif;
-  background-image: url("/figures/NEOF_blue_bg_180_degrees.png");
+  background-image: url("/figures/NEOF_bg_180_degrees.jpg");
   background-repeat: repeat; -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   margin-top: 200px; 
   font-size: 60px; 
@@ -63,7 +62,7 @@ h2 {
 
 
 
-// add round corners to images 
+// add roudn corners to images 
 //img{
 //  border-radius: 15px;
 //}
