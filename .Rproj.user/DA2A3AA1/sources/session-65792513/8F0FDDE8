@@ -3,7 +3,7 @@
     "path": "F:/Git/MG_PGCAP/MG_PGCAP.qmd",
     "project_path": "MG_PGCAP.qmd",
     "type": "quarto_markdown",
-    "hash": "1068487381",
+    "hash": "2166415099",
     "contents": "",
     "dirty": false,
     "created": 1707747537405.0,
@@ -12,20 +12,20 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,87",
-        "scrollLine": "0",
+        "cursorPosition": "555,4",
+        "scrollLine": "533",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "5992:23646"
+        "rmdVisualModeLocation": "1144:4180"
     },
     "folds": "",
-    "lastKnownWriteTime": 1707835317,
+    "lastKnownWriteTime": 1707841074,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1707835317612,
+    "last_content_update": 1707841074771,
     "read_only": false,
     "read_only_alternatives": []
 }

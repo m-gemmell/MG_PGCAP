@@ -12,7 +12,6 @@ $light-green: #45f47b;
 $dark-green: #00af37;
 $baby-blue: #d2e3f3;
 $teal: #047C90;
-$blue-nice: #0082c8;
 $dark-blue: #003660;
 $white: #FFFFFF;
 $green: #78A540; 
@@ -32,13 +31,12 @@ $body-bg: $WhiteSmoke;
 
 // horizontal line
 // Set it to use NEOF background as colour
-
 hr {
   display:block;
   border:0px;
   height:10px;
   border-radius: 5px;
-  background-color: $blue-nice;
+  background-image: url("./figures/NEOF_blue_bg_180_degrees.png");
 }
 
 // slide title (large)
@@ -52,19 +50,19 @@ hr {
 // Header 2 i.e. the slide headers
 h2 {
   font-family: $font-family-serif;
-  background-color: $blue-nice;
+  background-image: url("./figures/NEOF_blue_bg_180_degrees.j");
   background-repeat: repeat; -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   margin-top: 200px; 
   font-size: 60px; 
   text-align: left; 
   font-weight: bold;
   font-weight: 700; 
-  -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased; 
 }
 
 
 
-// add round corners to images 
+// add roudn corners to images 
 //img{
 //  border-radius: 15px;
 //}

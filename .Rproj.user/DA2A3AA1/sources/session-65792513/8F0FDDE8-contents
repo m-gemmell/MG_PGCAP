@@ -80,16 +80,16 @@ Comparison of the engagement and completion of synchronous and asynchronous onli
 <hr>
 
 ::: columns
-::: {.column width="75%"}
+::: {.column width="70%"}
 -   Some studies shown no to very little difference in learning outcome
-  - (Olson & McCracken 2015, Shahabadi et al, 2015)
-- Study of students learning word processing (Ogbonna et al, 2019)
-  - Both increased cognitive academic achievement
-  - Asynchronous approaches showed higher cognitive achievement
+    -   (Olson & McCracken 2015, Shahabadi et al, 2015)
+-   Study of students learning word processing (Ogbonna et al, 2019)
+    -   Both increased cognitive academic achievement
+    -   Asynchronous approaches showed higher cognitive achievement
 :::
 
-::: {.column width="25%"}
-<center>![](./figures/interaction.png){width="100%"}</center>
+::: {.column width="30%"}
+<center>![](./figures/balance_scale.png){width="100%"}</center>
 :::
 :::
 
@@ -164,14 +164,15 @@ Comparison of the engagement and completion of synchronous and asynchronous onli
 -   Abundance of motivation
     -   Want and/or need to learn (Taylor & Hamdy, 2013)
     -   Know what they need to learn (Kara et al, 2019)
--   Low in time
-    -   Full time jobs, Household tasks, & Caring responsibilities (children/dependents) (Cercone, 2008)
 :::
 
 ::: {.column width="40%"}
 <center>![](./figures/low_battery.png){width="100%"}</center>
 :::
 :::
+
+-   Low in time
+    -   Full time jobs, Household tasks, & Caring responsibilities (children/dependents) (Cercone, 2008)
 
 ## Case study
 
@@ -215,7 +216,7 @@ Comparison of the engagement and completion of synchronous and asynchronous onli
 ::: {.absolute top="100" width="100%"}
 <center>[Engagement and completion]{.title-slide-text}</center>
 
-<center>![](./figures/engage.png){width="40%"}</center>
+<center>![](./figures/finish_flag.png){width="40%"}</center>
 :::
 
 ## Course attendance and engagement
@@ -251,7 +252,7 @@ Comparison of the engagement and completion of synchronous and asynchronous onli
 :::
 
 ::: {.column width="40%"}
-<center>![](./figures/survey.png){width="100%"}</center>
+<center>![](./figures/engage.png){width="100%"}</center>
 :::
 :::
 
@@ -326,13 +327,14 @@ How beneficial do you find:
     -   Learners assist and encourage (Dao et al, 2022, Philp et al, 2013)
 -   Synchronous learning can create a community
     -   Prevent feelings of isolation and separation (Öztürk, 2021)
-- Adult learners find it difficult to develop social bonds with other learners online (Furnborough, 2012; Zhang & Krug, 2012)
 :::
 
 ::: {.column width="35%"}
 <center>![](./figures/community.png){width="100%"}</center>
 :::
 :::
+
+-   Adult learners find it difficult to develop social bonds with other learners online (Furnborough, 2012; Zhang & Krug, 2012)
 
 ## Synchronous advantages
 
@@ -351,18 +353,32 @@ How beneficial do you find:
 -   Primarily beneficial
 -   Prompt feedback is good practice
     -   Expected by students (Öztürk, 2021)
-- Correct tutor interactions with learners
-    - Promotes deep learning approach (Hardman, 2016)
-
+-   Correct tutor interactions with learners
+    -   Promotes deep learning approach (Hardman, 2016)
 :::
 
 ::: {.column width="30%"}
-<center>![](./figures/community.png){width="100%"}</center>
+<center>![](./figures/online_tutor.png){width="100%"}</center>
 :::
 :::
 
-- Ineffective tutor interaction
-  - limited communication, late or no response, poor feedback, and lack of synchronous assistance (Joo, 2014; Dumais et al, 2013; Dzakiria, 2012; Östlund, 2005; Pierrakeas  et al, 2004).
+## Ineffective tutor interaaction
+
+<hr>
+
+::: columns
+::: {.column width="70%"}
+- Limited interaction
+- Late or no response
+- Poor feedback
+- Lack of synchronous assistance
+- (Joo, 2014; Dumais et al, 2013; Dzakiria, 2012; Östlund, 2005; Pierrakeas et al, 2004)
+:::
+
+::: {.column width="30%"}
+<center>![](./figures/absence.png){width="100%"}</center>
+:::
+:::
 
 ## Troubleshooting/debugging
 
@@ -382,7 +398,7 @@ How beneficial do you find:
 :::
 
 ::: {.column width="35%"}
-<center>![](./figures/community.png){width="100%"}</center>
+<center>![](./figures/deNBUG.png){width="100%"}</center>
 :::
 :::
 
@@ -437,11 +453,30 @@ How beneficial do you find:
 Question: Are there any other features of synchronous online courses you find particularly beneficial? Do you have any other comments about synchronous online courses?
 
 |                                                                                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------|
 | While I see better engagement in synchronous courses, I get even more so with those in-person as opposed to online. For example, more likely to ask for help/questions at in-person courses as opposed to online. |
 | Having someone be able to explain why something works/doesn't work                                                                                                                                                |
 | If the cohort is small, of a similar level of understanding and feel comfortable to engage, it's a great learning environment.                                                                                    |
 | The limited time-frame does force more attention and so internalisation of knowledge vs more asynchronous work. The latter is more passive and easier to lose focus.                                              |
+
+## New takeaways from open question
+
+<hr>
+
+::: columns
+::: {.column width="60%"}
+- Two voiced preference for synchonous courses over asynchronous
+- One preference for in-person courses
+- Structure and environment is vital
+  - Keep learners focussed
+  - Open for questions and assistance
+  - Many practices to attempt this
+:::
+
+::: {.column width="40%"}
+<center>![](./figures/takeaway_pizza.png){width="100%"}</center>
+:::
+:::
 
 ## Bioinformatics is difficult
 
@@ -449,12 +484,12 @@ Question: Are there any other features of synchronous online courses you find pa
 
 ::: columns
 ::: {.column width="65%"}
-- Multidisciplinary topics are difficult
-  - Lots of unfamiliar skills
-  - Multiple concepts interacting at once
-- Asynchronous courses better suited to less complex foundational topics (Sindiani et al, 2020)
-  - Work at their own pace
-  - More time to focus on synchronous classes of more complex topics
+-   Multidisciplinary topics are difficult
+    -   Lots of unfamiliar skills
+    -   Multiple concepts interacting at once
+-   Asynchronous courses better suited to less complex foundational topics (Sindiani et al, 2020)
+    -   Work at their own pace
+    -   More time to focus on synchronous classes of more complex topics
 :::
 
 ::: {.column width="35%"}
@@ -468,13 +503,13 @@ Question: Are there any other features of synchronous online courses you find pa
 
 ::: columns
 ::: {.column width="70%"}
-- Constant improvements
-  - Sequencing approaches and technologies
-  - Databases size and completeness
-  - New and existing tools
-- Difficult for teaching programs & technical experts to keep pace (Navarro et al, 2019)
-- Materials need to be updated regularly
-  - Synchronous courses don't need to re-record videos
+-   Constant improvements
+    -   Sequencing approaches and technologies
+    -   Databases size and completeness
+    -   New and existing tools
+-   Difficult for teaching programs & technical experts to keep pace (Navarro et al, 2019)
+-   Materials need to be updated regularly
+    -   Synchronous courses don't need to re-record videos
 :::
 
 ::: {.column width="30%"}
@@ -482,21 +517,76 @@ Question: Are there any other features of synchronous online courses you find pa
 :::
 :::
 
+##  {background-color="black" background-image="./figures/NEOF_blue_bg_180_degrees.png"}
+
+::: {.absolute top="100" width="100%"}
+<center>[Asynchronous courses]{.title-slide-text}</center>
+
+<center>![](./figures/asynchronous_learning.png){width="40%"}</center>
+:::
+
+## Asynchronous advanatages
+
+<hr>
+
+How beneficial do you find:
+
+<center>![](figures/async_benefits.png){style="width: 100%; height: 450px; border-radius: 10px; border: 5px solid #333333"}</center>
+
+## Own time
+
+<hr>
+
+::: columns
+::: {.column width="65%"}
+- Slight benefit
+  - Lower than blocked out time
+- Previous research finds benefit in learners working at own pace and time
+  - (Akuratiya & Meddage, 2020, Clark et al, 2019, Coogle & Floyd, 2015)
+
+:::
+
+::: {.column width="35%"}
+<center>![](./figures/community.png){width="100%"}</center>
+:::
+:::
+
+## Recorded lectures
+
+<hr>
+
+::: columns
+::: {.column width="65%"}
+- Very beneficial
+- Instant access to E-materials and online lectures are beneficial to learning (Ayu, 2020).
+- Asynchronous courses do not require a stable Internet
+  - Known issue of online synchronous courses (Woodcock, 2023).
+- Didn't specify pre recorded lectures or recordings of attended lectures
+:::
+
+::: {.column width="35%"}
+<center>![](./figures/community.png){width="100%"}</center>
+:::
+:::
+
+
+
 ## Info to include
 
-- A big challenge of asynchronous distance learning for adults is the lack of interaction with tutors and students. 
-- The main advantages of asynchronous learning relate to flexibility for the learners. It is beneficial for many learners to be able to learn at their own time and at their own pace (Akuratiya & Meddage, 2020, Clark et al, 2019, Coogle & Floyd, 2015). 
-- Instant access to E-materials and online lectures are beneficial to learning (Ayu, 2020). 
-- This allows learners to repeatedly engage with the materials. 
-- A known issue of online synchronous courses is the requirement for a stable internet, whilst this is not the case for asynchronous courses (Woodcock, 2023). 
-- An advantage for tutors is that they do not need to spend as much time during the course and instead they can focus on creating good materials and recording presentations.
+-   The main advantages of asynchronous learning relate to flexibility for the learners. It is beneficial for many learners to be able to learn at their own time and at their own pace (Akuratiya & Meddage, 2020, Clark et al, 2019, Coogle & Floyd, 2015).
+-   Instant access to E-materials and online lectures are beneficial to learning (Ayu, 2020).
+-   This allows learners to repeatedly engage with the materials.
+-   A known issue of online synchronous courses is the requirement for a stable internet, whilst this is not the case for asynchronous courses (Woodcock, 2023).
+-   An advantage for tutors is that they do not need to spend as much time during the course and instead they can focus on creating good materials and recording presentations.
+
+
+  
 
 ## Combining approachee
 
-- Best approach to E-learning is to use both asynchronous and synchronous methods. 
-- The flipped classroom
-  - Class is at home and the homework is in the classroom
-  - Studies have found this approach has improved performance in learning (Akçayır & Akçayır, 2018, Strelan et al, 2020). 
-- Many students are in favour of a blended approach (Perveen, 2016, Xie et al, 2018)
-  - Disadvantages of synchronous are compensated by the presence of asynchronous approaches and vice versa (Perveen, 2016, Xie et al, 2018).
-
+-   Best approach to E-learning is to use both asynchronous and synchronous methods.
+-   The flipped classroom
+    -   Class is at home and the homework is in the classroom
+    -   Studies have found this approach has improved performance in learning (Akçayır & Akçayır, 2018, Strelan et al, 2020).
+-   Many students are in favour of a blended approach (Perveen, 2016, Xie et al, 2018)
+    -   Disadvantages of synchronous are compensated by the presence of asynchronous approaches and vice versa (Perveen, 2016, Xie et al, 2018).

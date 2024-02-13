@@ -1,26 +1,26 @@
 {
-    "id": "634F5379",
+    "id": "1D1677EC",
     "path": "F:/Git/MG_PGCAP/style.scss",
     "project_path": "style.scss",
     "type": "scss",
-    "hash": "457083001",
+    "hash": "2052562329",
     "contents": "",
     "dirty": false,
-    "created": 1704366737840.0,
+    "created": 1707836552368.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "33,0",
-        "scrollLine": "13"
+        "cursorPosition": "52,3",
+        "scrollLine": "42"
     },
     "folds": "",
-    "lastKnownWriteTime": 1707836282,
+    "lastKnownWriteTime": 1707837812,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1707836282754,
+    "last_content_update": 1707837812168,
     "read_only": false,
     "read_only_alternatives": []
 }
