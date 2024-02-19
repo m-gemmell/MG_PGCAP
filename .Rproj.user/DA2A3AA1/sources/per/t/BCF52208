@@ -3,7 +3,7 @@
     "path": "F:/Git/MG_PGCAP/MG_PGCAP.qmd",
     "project_path": "MG_PGCAP.qmd",
     "type": "quarto_markdown",
-    "hash": "182272438",
+    "hash": "1573754325",
     "contents": "",
     "dirty": false,
     "created": 1707908015689.0,
@@ -12,20 +12,21 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "27,82",
-        "scrollLine": "0",
+        "cursorPosition": "782,62",
+        "scrollLine": "716",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "14068:42232.66796875"
+        "rmdVisualModeLocation": "14068:42232.66796875",
+        "ignored_words": "center,hr,Gemmell,UoL,Online,vs,walkthroughs,Shahabadi,Ogbonna,bfx,PhD,ECRs,Hamdy,Kara,Cercone,Dropouts,Zahrani,Dao,Philp,Öztürk,Furnborough,Krug,Hardman,Bfx,demotivation,Kinnunen,Ngo,Whalley,Joo,Dumais,Dzakiria,Östlund,Pierrakeas,Sindiani,Akuratiya,Meddage,Coogle,Ayu,reapproach,Flexibillity,Perveen,Xie,Akçayır,Strelan,m,gemmell,www,liverpool,ac,eddev,pgcap,mgemmell\n"
     },
     "folds": "",
-    "lastKnownWriteTime": 1707997939,
+    "lastKnownWriteTime": 1708016453,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1707997939065,
+    "last_content_update": 1708016453865,
     "read_only": false,
     "read_only_alternatives": []
 }

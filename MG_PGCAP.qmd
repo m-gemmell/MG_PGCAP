@@ -197,7 +197,7 @@ Comparison of the engagement and completion of synchronous and asynchronous onli
 :::
 
 -   Low in time
-    -   Full time jobs, Household tasks, & Caring responsibilities (children/dependents) (Cercone, 2008)
+    -   Full time jobs, Household tasks, & Caring responsibilities (children/dependants) (Cercone, 2008)
 
 ## Case study
 
@@ -338,7 +338,7 @@ How beneficial do you find:
 ::: {.column width="60%"}
 -   Mixed response
     -   5 beneficial
-    -   3 unbeneficial
+    -   3 beneficial
     -   No neutrals
 -   Discussion with fellow learners
     -   Share struggles and solutions
@@ -462,7 +462,7 @@ How beneficial do you find:
 <hr>
 
 -   Best timing is 10am - 4pm
--   Allows adults time for other repsonsibilities
+-   Allows adults time for other responsibilities
 -   Prevent cognitive overload
     -   Less energy
     -   Our learners typically leave between 3pm and 4pm
@@ -779,7 +779,12 @@ Are there any other features of asynchronous online courses you find particularl
 <center>[Links]{.title-slide-text}</center>
 
 Slides: https://m-gemmell.github.io/PGCAP
+
+{{< video https://youtu.be/068Wx19OjxM width="1000" height="550" >}}
 :::
+
+
+
 
 ## Survey & Ethics disclaimer
 
