@@ -2,12 +2,14 @@ project:
   title: "PGCAP"
 format:
   revealjs:
-    favicon: ./figures/clock.png
     logo: "./figures/clock.png"
     highlight-style: github
     slide-number: true
     theme: 
       - style.scss
+include-in-header:
+  - text: |
+      <link rel = "shortcut icon" href = "./figures/clock.png" />
 
 
 
