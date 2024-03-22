@@ -338,7 +338,7 @@ How beneficial do you find:
 ::: {.column width="60%"}
 -   Mixed response
     -   5 beneficial
-    -   3 beneficial
+    -   3 unbeneficial
     -   No neutrals
 -   Discussion with fellow learners
     -   Share struggles and solutions

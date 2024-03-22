@@ -3,7 +3,7 @@
     "path": "F:/Git/MG_PGCAP/MG_PGCAP.qmd",
     "project_path": "MG_PGCAP.qmd",
     "type": "quarto_markdown",
-    "hash": "1717014566",
+    "hash": "2756891619",
     "contents": "",
     "dirty": false,
     "created": 1707908015689.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "781,0",
-        "scrollLine": "761",
+        "cursorPosition": "342,23",
+        "scrollLine": "301",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "0",
@@ -22,11 +22,11 @@
         "ignored_words": "center,hr,Gemmell,UoL,Online,vs,walkthroughs,Shahabadi,Ogbonna,bfx,PhD,ECRs,Hamdy,Kara,Cercone,Dropouts,Zahrani,Dao,Philp,Öztürk,Furnborough,Krug,Hardman,Bfx,demotivation,Kinnunen,Ngo,Whalley,Joo,Dumais,Dzakiria,Östlund,Pierrakeas,Sindiani,Akuratiya,Meddage,Coogle,Ayu,reapproach,Flexibillity,Perveen,Xie,Akçayır,Strelan,m,gemmell,www,liverpool,ac,eddev,pgcap,mgemmell\n"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711031485,
+    "lastKnownWriteTime": 1711110382,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711031485048,
+    "last_content_update": 1711110382987,
     "read_only": false,
     "read_only_alternatives": []
 }
