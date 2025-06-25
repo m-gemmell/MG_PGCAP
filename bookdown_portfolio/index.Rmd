@@ -1,0 +1,50 @@
+---
+title: "MG PGCAP Portfolio"
+author: "Matthew R. Gemmell"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+favicon: figures/game_of_life.png
+description: Matthew R. Gemmell's Portfolio of educational practice for his PGCAP
+cover-image: "figures/game_of_life.png"
+---
+
+```{r cite-packages, include = FALSE}
+# automatically create a bib database for R packages
+# add any packages you want to cite here
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'webexercises'
+), 'packages.bib')
+```
+
+```{r, echo=FALSE}
+#Change colour, border, and text of code chunks
+#Check style.css for .Rchunk
+#https://stackoverflow.com/questions/65627531/change-r-chunk-background-color-in-bookdown-gitbook
+#https://bookdown.org/yihui/rmarkdown-cookbook/chunk-styling.html
+knitr::opts_chunk$set(class.source="Rchunk") 
+```
+
+# Welcome
+
+Welcome, this is my portfolio for the PGCAP (Postgraduate Certificate of Academic Practice) I completed in 2024.
+In essence the course is a degree for higher education (i.e. education at the University level).
+
+The portfolio covers many topics and is related to teaching bioinformatics primarily to PhD students and early career researchers.
+
+In the portfolio each section is split into two. The first is a more informal introduction to the topic/s. The second is a more formal essay/report with citations. Feel free to read only the first parts which summarise the most important points in the second part. I hope you find it interesting and engaging.
+
+For the true introduction please read onto the next page.
+
+- [Webpage for Univeristy of Liverpool PGCAP](https://www.liverpool.ac.uk/eddev/pgcap/)
+
+## UKSPF citing
+
+Throughout the portfolio the topics covered are compared to the UKSPF dimensions by V1-5, K1-5, and A1-5 in brackets.
+For more information on the UKSPF and these dimensions please check the [Appendix](#ukspf).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons Licence" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

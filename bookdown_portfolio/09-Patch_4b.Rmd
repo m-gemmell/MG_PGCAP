@@ -1,0 +1,53 @@
+# Square peg finding a square hole: Fitting myself into the Higher education system
+
+Up to this point in my teaching career I have been thinking on the micro level. I have focussed on what is best for each learner. I am now contemplating how I have fit myself into the Higher Education system? 
+
+Unlike typical HE educators, I run 1-2 day workshops for postgrads and research staff (A1). These stand-alone micro scale courses have not previously required a large amount of curriculum design. This has changed with my involvement in NEOF (NERC Environmental Omics Facility) where we run a series of workshops over a year. Therefore, I have decided to reflect on my curriculum design (A5). To assist with this I focussed on the core value and six hallmarks of the Liverpool curriculum framework. 
+
+## NEOF
+
+I co-run the training subgroup at NEOF (NERC Environmental Omics Facility). NERC (Natural Environment Research Council) is part of UKRI and it is the driving force of investment in environmental science in the UK. 
+
+The NEOF training subgroup improves the digital fluency of environmental scientists (postgrads & academic research staff) across the UK (V4). This is carried out by teaching bioinformatics to analyse environmental genomics data (A2). Bioinformatics is vital to the field of modern molecular biology (K1) (Cao et al, 2020). These skills and knowledge help with the learner’s research and future employability (V4). 
+
+NEOF carries out research relevant to NERC. We use this experience and produce training that is research-connected. We use relevant datasets, and teach bioinformatic techniques used in research. Sharing our research experiences with these concepts and tools makes it more relevant and improves understanding (Lu et al, 2017) (K2).
+
+## Workshop Design
+
+To build up a curriculum you have to start with the building blocks. In our case these are workshops. Our workshops are 1-2 days, running from 10am-4pm with 3 breaks amounting to 1.5 hours. We use this time schedule to be inclusive to people of different needs (V1). Whether this is people who need to drop off/pick-up children or those who need to commute. 
+
+Most of our workshops are free and online. The workshops are entirely funded by NERC. We started online due to necessity but continue because of feedback.  We cater to everyone in the UK including people in Northern Ireland. Online workshops are more accessible as our attendees do not need to organise travel and accommodation (V2).
+
+The first day of a workshop starts with an icebreaker. This helps establish a learning environment and introduces scientists in the same field to each other, helping global citizenship (V2 & V3) (Mustafa & Yukselturk, 2022). We allow anonymous participation to improve inclusivity as anxiety is a barrier to learning (Sathy & Hogan, 2019). After the icebreaker we carry out a presentation to introduce them to the contents of the workshop and set the etiquette they are and we are expected to practise during the workshop. This is important to respect each other and our differences (V1) (Muñiz, 2019).
+
+Primarily the workshop involves the learners running through and reading a html book. This contains theory, practice, MCQs, and exercises. They run through the materials at their own pace. This active learning approach is a central tenet of scientific teaching, a useful pedagogical framework for bioinformatics (K2, K3, K4, & V3) (Miller et al,  2008).
+
+Through these workshops we purely train skills and do not grade our learners. Instead, we provide solutions to the exercises in the materials. This allows training-supported formative self-assessment which deepens learning (Andrade, 2019). We give our learners feedback when they ask for help and we evaluate their solution and understanding (A3, & K5).
+
+## Curriculum design
+
+At NEOF we run a series of workshops throughout a year, with 3-4 weeks between each. The same people will not attend all workshops so we ensure learners have the bioinformatic prerequisites before they attend. We have a variety of methods for this but I will focus on our division of our workshops. 
+
+At the start of the series we run introductory courses. These act as the  prerequisite materials for our analysis workshops in the second half (K2). These include introductory courses to the coding languages; Bash, R, and Python, and an introduction to sequencing quality control. These workshops ease the learners into bioinformatics and provide essential skills and knowledge. This promotes learners’ digital fluency and confidence (V1). Our python course was created by a new member of the group with proficiency in python. We were able to train them to be a trainer and in turn they were able to expand our program. It is very beneficial to build a complimentary combination of skilled personnel in this manner (V2 & V4) (Aron et al, 2021).
+
+On top of running these courses synchronously we also provide them to all learners attending our course specific workshops. We provide the materials, recordings, and a means to run through them. This ensures the learners can learn or refresh on the materials prior to the workshop. Providing online materials is valuable to postgraduate learners irrespective of their native language and promotes confidence with self-directed learning (A4, K4, V1, & V2) (Mello, 2016).
+
+Although NERC funds more than biology, we at NEOF specifically help with biological questions through omics. Omics is the study of pools of biological molecules such as DNA, RNA, and proteins. This combined with the NERC remit of what areas of studies they fund, informs what types of analysis we teach (K1, & V4).
+
+With the knowledge of my team and the NERC remit we run various different analysis specific workshops. These workshops do not require all the prerequisites and so we only give the learner the required prerequisite materials prior to the workshop. We ensure that these prerequisites are clearly specified and only the required workshop is provided before each course.
+
+## Conclusion
+
+At NEOF we provide a curriculum of bioinformatics based workshops. The main aim is to improve the digital fluency of postgraduates and researchers via bioinformatics. We are well placed to provide research-connected teaching in molecular biology of environmental sciences and primarily utilise self-assessment as a form of authentic assessment. To create global citizenship we use icebreakers so scientists can meet other scientists in the same field. Through many practices we try to be inclusive. This includes the online nature, and time structure of our workshops. Through gradual training we attempt to improve the confidence of learners. With the knowledge from this PGCAP, the Liverpool curriculum framework and the slow build up of my training provisions, I believe we are utilising a good curriculum design for online bioinformatics workshops (A5).
+
+## Citations
+
+1. Andrade, H. L. (2019, August). A critical review of research on student self-assessment. In Frontiers in Education (Vol. 4, p. 87). Frontiers Media SA.
+2. Aron, S., Jongeneel, C. V., Chauke, P. A., Chaouch, M., Kumuthini, J., Zass, L., ... & Mulder, N. (2021). Ten simple rules for developing bioinformatics capacity at an academic institution. PLoS Computational Biology, 17(12), e1009592.
+3. Cao, Y., Geddes, T. A., Yang, J. Y. H., & Yang, P. (2020). Ensemble deep learning in bioinformatics. Nature Machine Intelligence, 2(9), 500-508.
+4. Mello, L. V. (2016). Fostering postgraduate student engagement: online resources supporting self-directed learning in a diverse cohort. Research in Learning Technology, 24.
+5. Mello, L. V., Tregilgas, L., Cowley, G., Gupta, A., Makki, F., Jhutty, A., & Shanmugasundram, A. (2017). ‘Students-as-partners’ scheme enhances postgraduate students’ employability skills while addressing gaps in bioinformatics education. Higher education pedagogies, 2(1), 43-57.
+6. Miller, S., Pfund, C., Pribbenow, C. M., & Handelsman, J. (2008). Scientific teaching in practice. Science, 322(5906), 1329-1330.
+7. Muñiz, J. (2019). Culturally Responsive Teaching: A 50-State Survey of Teaching Standards. New America.
+8. Mustafa, Ş. A. T., İlhan, F., & YUKSELTURK, E. (2022). Web tools as e-icebreakers in online education. Journal of Educational Technology and Online Learning, 5(3), 721-737.
+9. Sathy, V., & Hogan, K. A. (2019). How to make your teaching more inclusive. The Chronicle of Higher Education, 7.

@@ -1,0 +1,41 @@
+# (PART\*) Intro {-}
+
+# The Starting line
+
+<center>
+![](figures/finish_flag.png){style="width:200px; background: white; border-radius:15px"}
+</center>
+
+What came first, the teacher or the learner? A nonsensical question for an important topic. Throughout this portfolio I will guide you through what I have learnt about teaching.
+
+I teach bioinformatics/computational biology to life scientists through a University genome centre & NERC omics facility. We provide easily accessible online workshops to researchers across the UK. For this I have heavily invested in learning digital technologies to make workshops smooth and inclusive.
+
+Self reflections have shown me how I am an effective teacher. Carrying out pedagogical research has shown me how to improve. I am now incorporating Learning Outcomes, improving course onboarding, and adding MCQs into my digital materials.
+
+I will repeat myself multiple times through this portfolio. But, repetition is key to learning. I have strived to demonstrate that I fulfil all the UKPSF mappings and that I meet descriptor 2 of the UKPSF.
+
+## "Tell me and I forget. Teach me and I remember. Involve me and I learn". -Benjamin Franklin
+
+<center>
+![](figures/kite.png){style="width:200px; background: white; border-radius:15px"}
+</center>
+
+As part of this intro I will introduce you to some of my sayings and catch phrases I have in regards to teaching.
+
+"There is no such thing as a stupid question, just stupid answers by me". A phrase I say to my learners to encourage questions with humour.
+
+"Difficult topics can't be made easy, but learning can". I try to facilitate the best learning. Failure to learn is not always failure of the learner.
+
+I teach in a "Smart Casual approach". I try to be an engaging, informative, approachable, and inclusive teacher.
+
+## Growth
+
+<center>
+![](figures/bracken.png){style="width:200px; background: white; border-radius:15px"}
+</center>
+
+I became a teacher because I was a learner. I saw so many poor practices & so many good practices. Through this and experience I have developed my own teaching style. I have a deep passion for teaching and I want my learners to be engaged whilst gaining valuable skills & knowledge.
+
+I want to continue teaching and have it as my primary role. I aim to complete this PGCAP & continue onto the PGMA. As part of this I would like to disseminate my findings and practices to other teachers. I am currently trying to become the CGR (Centre for Genomic Research) training manager.
+
+I hope that has given you a taste of this portfolio. Please enjoy the rest.

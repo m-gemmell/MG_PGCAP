@@ -1,0 +1,44 @@
+# Hiking through my teaching career
+
+I thoroughly enjoy teaching bioinformatics and I have benefited greatly from this PGCAP module. It has taught me interesting pedagogy, given me the opportunity to read academic literature, and reflect on my current teaching practices. Through this I have gained more confidence in my teaching, and incorporated new practices. I plan to become the CGR (Centre for Genomics Research) training manager. The skills, knowledge, and accreditations through the FLTHE and this PGCAP will assist me in fulfilling these goals.
+
+## The path taken
+
+I have been in academia for over 12 years. Through a BSc in Microbiology and a MSc in Bioinformatics I experienced a lot of good and bad teaching practices (K1). I was chairperson of a society which gave me practice and affinity in public speaking, organisation, and hosting.
+
+Through my 8 years as a bioinformatician in academic genome centres I have been involved in running over 50 bioinformatics workshops (1-5 days each). Initially, I learnt a lot following the lead of my fellow experienced bioinformaticians. Now I am the training lead at the Centre for Genomic Research (CGR) (A1 & A2). I am a founder of the NEOF (NERC Environmental Omics Facility) training team and currently run about 12 workshops a year.
+
+With the start of NEOF during lockdowns it gave us the opportunity to start from scratch while producing online courses. To accommodate this I learnt how to use Zoom, OBS, and slack, making online learning easier (K4). I learnt to create html books with R bookdown. This makes attractive materials with a digestible layout that are easily accessible via a website. Additionally, there are many interactive parts I can add and the website can be kept up to date so previous learners can view the updated materials if they refer to them in the future.
+
+## The scenic view
+
+I thoroughly enjoy teaching and I want to improve and open more opportunities for myself. For this I successfully carried out the Foundations in Learning and Teaching in Higher Education (FLTHE). This was then followed by this PGCAP (A5). Reflecting on my teaching practice and codifying it in terms of pedagogical theory has been beneficial so I understand better what I am doing well and what can be improved. I teach with a blended learning approach, focussing primarily on active learning via strong materials which contain a variety of different activities (K2 & K3). I have two main catchphrases I use that encapsulate my teaching style. 
+
+### “There is no such thing as a stupid question, only stupid answers by me”
+
+This attempts to motivate students to engage in learning by showing I am an approachable presence that will not judge any learners (A4). Providing feedback is important to students (A3). I now make a conscious effort to praise learners for their effort rather than success. This helps motivate students and aims to teach them that mistakes are common in bioinformatics and coding in general (V2). It is not about not making mistakes instead it is having the ability to debug and address mistakes. 
+
+### “Difficult subjects can’t be made easy, but learning can”
+
+We should not trivialise the complexity of computational biology. It is difficult. Saying something is easy when a learner finds it difficult will demotivate them (V1). I aim to facilitate learning with the best practices. My main focus is on very effective materials. Good materials allow them to learn at their own pace and means they have something good to refer to in the future. A lot of bioinformatics is running through processes and so it is always good to have a good guide to follow.
+
+## My improved gear
+
+With this PGCAP I have found areas of development via pedagogical literature. I am now adding interactive MCQs into the materials. These act as a form of formative assessment that allows the learner to carry out self assessment (V3). I use these as recap sections of chapters and  to direct learners to the correct parts of file outputs. Bioinformatics involves many different types of files and so interrogation and interpretation of these is very important (K2).
+
+I have previously found the use of Learning outcomes to be unintuitive. This is a common feeling in computational subjects. I have learnt of the SOLO and Bloom combined taxonomy to produce learning outcomes. With this I have started making learning outcomes that I feel are beneficial and in line with the Bologna Declaration (V4).
+
+In past workshops some learners struggle starting. One of my observers noticed this and I now plan to make the workshop onboarding clearer. We regularly discuss our teaching practices in our team to improve our teaching (K6).
+
+Through student verbal and written feedback I will monitor whether my additions and improvements are beneficial (K5). In addition, I will continue to find any areas of improvement through CPD and feedback.
+
+## The path ahead
+
+My current plan now is to become the official teaching manager of CGR. I would like a small teaching team with which I have authority to make decisions and delegate tasks without having to ask CGR higher-ups for constant permission. I have discussed with my line manager who is keen and discussions are taking place. Prior to being a manager I would like to improve my conflict management and leadership skills. I also want to constantly improve my teaching skills so this PGCAP will be beneficial and I would like to advance onto the PGDip and MA. 
+In terms of direct teaching I would like to improve the feedback forms we provide to students. I have no knowledge of academic theory as to what constitutes good feedback questions. Instead, I do what seems good. 
+
+I would like to include more videos in my materials to demonstrate how to use programs with complicated GUIs or complicated techniques. This would require learning difficult video editing software. Due to this I believe it best to focus on other improvements. It is easy to theorise the best materials but we also need to manage our tasks to produce the best materials with the time and skills we already have.
+
+## Taking off my boots
+
+I am an inclusive effective teacher. Through this PGCAP module I have been able to develop, expand, and reflect on my teaching practices. I am incorporating interactive MCQs and adding Learning outcomes to my materials. I aim to continue my improvement and I plan to become the CGR training manager in the future.

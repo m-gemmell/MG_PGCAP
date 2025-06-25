@@ -1,0 +1,64 @@
+# (PART\*) Reflection of two observations of teaching and learning {-}
+
+# All aboard! or: How to improve the introduction of a workshop with effective onboarding and Learning Outcomes
+
+<center>
+![](figures/train.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+I have always asked my team members to discuss and give me feedback on my presentations and materials. I am a glutton for positive feedback but do not react as well to negative feedback. These 2 observations gave me a chance to discuss my teaching in a more formal process. With this I discovered 2 main improvements for my teaching practice.
+
+## Dr Strangelove or: How I learned to stop worrying and love the Learning Outcome
+
+<center>
+![](figures/pyramid.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+My first observation was with a senior colleague, Lu Mello. I have helped in the past with her ungraduate modules and we get on very well. She was therefore very enthusiastic to help me. Overall she was very positive and provided a great discussion. She helped me see how I cover all of the UKPSF. However, that discussion could never fit in a 500 word reflection, in fact I feel like I could have written 2X the amount in my patches. No surprise to you reading this portfolio I am sure. I therefore decided to focus on her advice in adding Learning Outcomes (LOs) to my workshops (A5).
+
+Learning outcomes are important in higher education for a variety of reasons:
+
+- Part of changes and standardisation caused by the Bologna Declaration (1999) (V4).
+  - The Bologna declaration was intended to promote quality assurance and allow for the greater comparability and compatibility of University courses across Europe (Wächter., 2004).
+  - The Berlin Communiqué (2003) first encouraged the use of Learning outcomes in these European processes (Sweetman et al., 2014).
+- They Provide a good overview of the skills, knowledge, and/or competences to gain from the education (K3) (Dias, 2020).
+  - Prospective learners can gain a clear view of the course, prior to applying (V1 & V2).
+
+I have previously lacked affinity to producing learning outcomes. This is due to a variety of reasons:
+
+- Bloom's taxonomy.
+  - It is difficult to use Bloom's taxonomy for computer science education (Masapanta-Carrión, & Velázquez-Iturbide, 2018).
+  - However, I discovered a combined SOLO and Bloom’s taxonomy for computer scientists, such as I, to use (V3 & K2) (Meerbaum-Salant et al., 2010). 
+- Learners not reaching LOs
+  - Can lead to demotivation as student may feel the failure is their fault (V1).
+  - However, good learning outcomes that attempt to protect from loss of self-confidence can be created (Falout et al., 2009).
+
+I am very happy with the feedback from my observer and how it has led me to stop worrying and love the Learning outcome. The feedback from my marker is generally positive again asking me to link to the Liverpool Curriculum Framework. However, this was addressed in Patch 4 which was submitted after this patch.
+
+## A smooth on-ramp or: Effective onboarding to a course
+
+<center>
+![](figures/ramp.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+My second observation was with a member of my NEOF training group, Katy Maher. Overall we both agreed my session  was successful. However, we both noticed that a few students struggled starting the practical portion. We have noticed this before but a solution was not immediately obvious and other work took precedence. With this part of the patch I was able to investigate and find possible solutions for improving my onboarding for those struggling (V1).
+
+Effective onboarding can help student retention (V2) (Milner & Price, 2021). I currently set etiquette to help prevent misunderstanding and conflicts in a multicultural group, improving inclusivity (V1) (Franz et al., 2021).
+
+Importantly in Bioinformatics open source software is primarily used, the majority of which have steep learning curves (K1) (Ngo et al., 2021). I therefore try to teach user-friendly tools to counteract demotivation at start (A1, K4, & V3) (Franz et al., 2021). Additionally, I train the learners on how to use the tools, a core competency for all bioinformaticians (A2, &V4) (Walch et al., 2014)
+
+In the future I intend to improve the onboarding on my materials with the following:
+
+- Demonstration of the online HTML book at the end of my first presentation (A5).
+-  Incorporation of learning outcomes and goals to elucidate purpose (Hayes, 2014).
+- Utilisation of narrative to introduce the practice dataset to invest the learners (K3) (McNett, 2016).
+
+I am happy with the feedback from my observer and marker. I have some good areas to make instant improvements. My marker feedback encourages me to look at more frameworks. This will be good to do in the future but I am content with the amount of content I fit into this reflection.
+
+## A murder of discussions
+
+<center>
+![](figures/murder of crows.png){style="width:1000px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+Time to discuss the discussions. Although I constantly discuss how my workshops went with my team it was good to do it in a more formal manner and with someone I have not discussed my NEOF workshops with before. Although it will take more time I am looking forward to the incorporation of Learning Outcomes in my materials. It will also be useful to improve the onboarding of my workshops. These two improvement will hopefully allow learners to start off running.

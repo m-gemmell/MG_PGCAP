@@ -1,0 +1,126 @@
+# Self-evaluation and reflection of the sessions
+
+The assignments included feedback from my observers.
+However, as they are not my words I have not included them and only included my own self-evaluations and reflections on the sessions.
+
+## Learning outcomes
+
+The teaching session I created and ran went very well (A1 & A2). Learner’s were given a good introduction
+to the day’s materials and they were engaged and motivated. However, my observer pointed out that I
+could incorporate learning outcomes (LOs) into the materials and presentation better, and promote
+networking. In this reflection I would like to focus on incorporating LOs for future courses (A5).
+
+LOs are important in higher education as part of changes and standardisation caused by the Bologna
+Declaration (1999) (V4). This agreement was intended to promote quality assurance and allow for the
+greater comparability and compatibility of University courses across Europe (Wächter., 2004). The Bologna
+Declaration was followed up by other agreements, including the Berlin Communiqué (2003). This first
+encouraged the use of Learning outcomes in these European processes (Sweetman et al., 2014).
+
+LOs assist learners by giving them a good overview of the skills, knowledge, and/or competences to gain
+from the education (K3) (Dias, 2020). With my workshops this can give the prospective learner a clear view
+of the course, prior to applying, so they know if it is relevant for them (V1 & V2). Currently we have a brief
+explanation of the course. Including a bulleted list of learning outcomes can help set proper expectations of
+prospective learners.
+
+I have previously found designing learning objectives for computational biology to not be straightforward.
+This is not uncommon with many computer science educators finding it difficult to determine the level of
+Bloom’s taxonomy to use (Masapanta-Carrión, & Velázquez-Iturbide, 2018). There are various
+evidence-informed recommendations to improve the creation of learning outcomes. One particularly
+interesting one I will use is the combined SOLO and Bloom’s taxonomy (V3) (Meerbaum-Salant et al., 2010).
+This taxonomy was specifically designed for computer scientists such as myself (K2). This utilises three of
+the five SOLO taxonomies; unistructural, multistructural, and relational. Within each of these are three
+subcategories from Bloom’s taxonomy; Understanding, Applying, and Creation.
+
+An additional issue I find with LOs is when a learner does not reach the expected learning outcomes. This
+can lead to demotivation as LOs can make it seem like the failure is the student’s fault (V1). However, good
+learning outcomes that attempt to protect from loss of self-confidence can be created (Falout et al., 2009).
+I need to carefully consider what taxonomy level the training is intended to reach. Depending on the topic,
+as I do not purely teach computer science, I can use Bloom’s or the combined SOLO and Bloom’s taxonomy.
+
+It is tempting to try and pick a higher complexity level so you feel you are giving the best value of teaching.
+However, higher complexity does not necessarily mean better and it is best to create a realistic learning
+outcome (K4). On the other hand, it is still useful to consider the higher levels of taxonomy. This can be
+used to try to develop deeper cognitive processing in learners where appropriate (Adams, 2015).
+
+I am happy with my current teaching. There is still room for improvement and I aim to add LOs to my
+registration forms and materials (A5). I feel more confident using the SOLO and Bloom’s combined
+taxonomy than Bloom’s for my area of teaching. I will add a section in the workshop feedback forms to
+assess the usefulness and quality of the LOs I add (K5). I hope their incorporation will improve the learning
+experience and help with material creation in the future.
+
+### Citations
+
+1. Adams, N. E. (2015). Bloom’s taxonomy of cognitive learning objectives. Journal of the Medical Library
+Association: JMLA, 103(3), 152.
+2. Dias, D. (2020). Learning outcomes in European higher education. In The International Encyclopedia of Higher
+Education Systems and Institutions (pp. 1996-2000). Dordrecht: Springer Netherlands.
+3. Falout, J., Elwood, J., & Hood, M. (2009). Demotivation: Affective states and learning outcomes. System,
+37(3), 403-417.
+4. Masapanta-Carrión, S., & Velázquez-Iturbide, J. Á. (2018, February). A systematic review of the use of bloom's
+taxonomy in computer science education. In Proceedings of the 49th acm technical symposium on computer
+science education (pp. 441-446).
+5. Meerbaum-Salant, O., Armoni, M., & Ben-Ari, M. (2010, August). Learning computer science concepts with
+scratch. In Proceedings of the Sixth international workshop on Computing education research (pp. 69-76).
+6. Sweetman, R., Hovdhaugen, E., & Karlsen, H. (2014). Learning outcomes across disciplinary divides and
+contrasting national higher education traditions. Tertiary Education and Management, 20(3), 179-192.
+7. Wächter, B. (2004). The Bologna Process: developments and prospects. European journal of education, 39(3),
+265-273.
+
+## Effective onboarding
+
+I have received very positive feedback from my observer. Katy is a member of the NEOF training subgroup
+so was able to observe the entire day’s session (9.30am-4pm). The main area for further development was
+to explain the use of the online html book and how to start after the presentation. I believe this ties into
+improving my onboarding to assist struggling learners (V1). There are a variety of methods I am aiming to
+use to do this. This includes adding a section at the end of the first presentation to set them up for the
+practical, and improving the stated goals and outcomes of the course.
+
+Onboarding can be an effective method to prepare learners for the course. In online courses this can
+introduce the learners to the technologies to be used, the materials to be covered, and how assignments
+will be carried out. Effective onboarding can help student retention and the materials can be useful for
+their future reference (V2) (Milner & Price, 2021). Etiquette can be set to help prevent misunderstanding
+and conflicts in a multicultural group, improving inclusivity (V1) (Franz et al., 2021).
+
+The online learning of bioinformatics can be halted by the various tools and software that need to be learnt
+such as Zoom, Slack, webVNC, RStudio, Juptyer notebook, etc. Primarily bioinformatic software packages
+that academics use are open-source. Unfortunately the majority of open-source software packages have a
+significant barrier to entry with steep learning curves, in part due to poor documentation (K1) (Ngo et al.,
+2021). To counteract demotivation at the start of the course I use user-friendly tools in the materials, where
+possible (A1, K4, & V3) (Franz et al., 2021). Additionally, I train the learners on how to use the tools (A2).
+This is seen as a core competency for all bioinformaticians (V4) (Walch et al., 2014).
+
+Unfortunately I have not focussed on onboarding the materials. To improve on this I will give a
+demonstration of the online HTML book at the end of my first presentation (A5). I will show them different
+sections of it such as the theory, practice, interactive multiple choice questions, and exercises. In past
+courses I have found a small number of students have been confused as to how to start the practical. I have
+found this out by regularly asking students if they need assistance and by being able to check their progress
+on their virtual computer I have access to (A4 & K5).
+
+More generally, to improve onboarding I will improve the introduction of the course. I will incorporate
+learning outcomes and goals into the presentation and materials to help elucidate the purpose of the
+course (Hayes, 2014). I will also use narrative to introduce the dataset being used in a way that invests the
+learners (K3) (McNett, 2016).
+
+I am very happy with my feedback from my observer. However, I agree with their criticism of my
+onboarding. I have previously focussed on effective onboarding on the bioinformatic concepts and tools. I
+will now focus on improving the more general onboarding of the course. This will involve setting up the
+students to start practical sessions more smoothly, improving the learning goals, and giving better context
+to the biological datasets that are used through storytelling.
+
+## Citations
+
+1. Franz, L., Mählitz-Galler, E., & Herzog, M. (2021, October). Onboarding Challenges in Online and
+Blended Courses: Reviewing Virtual Cross-Country Collaboration of Student Teams in Higher
+Education. In ECEL 2021 20th European Conference on e-Learning (p. 164). Academic Conferences
+International limited.
+2. Hayes, S. (2014). A mixed methods study of shared epistemic agency in team projects in an online
+baccalaureate nursing course. State University of New York at Albany.
+3. McNett, G. (2016). Using stories to facilitate learning. College Teaching, 64(4), 184-193.
+4. Milner, P., & Price, M. (2021, July). All On Board: A Facilitated Onboarding Program Supporting
+Retention of Online Undergraduate Learners. In ANNUAL (p. 145).
+5. Ngo, C. J., Chang, J., & Chung, S. (2021). Decreasing the Barrier to Entry for an Open-Source
+Full-Stack Web Development. In Proceedings of the Conference on Information Systems Applied
+Research ISSN (Vol. 2167, p. 1508).
+6. Welch, L., Lewitter, F., Schwartz, R., Brooksbank, C., Radivojac, P., Gaeta, B., & Schneider, M. V.
+(2014). Bioinformatics curriculum guidelines: toward a definition of core competencies. PLOS
+computational biology, 10(3), e1003496

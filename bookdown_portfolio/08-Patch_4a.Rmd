@@ -1,0 +1,57 @@
+# (PART\*) Pivotal Learning 2 {-}
+
+# Mittens or: Finding the right gloves
+
+<center>
+![](figures/mittens.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+I am in a unique position in terms of teaching in higher education. I teach workshops that last days rather than modules that last weeks. Instead of teaching undergraduates I teach postgraduates and research staff (A1). However, the team I am part of now run a series of workshops over a year. This has given me the impetus to reflect on curriculum design (A5). To improve on this I focussed on the core value and six hallmarks of the Liverpool curriculum framework.
+
+## Benefits of formative assessment
+
+<center>
+![](figures/core_7_hallmarks.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+Throughout this patch I reflect on how I currently meet the core value and six hallmarks of the Liverpool curriculum framework.
+
+Core value: Inclusivity
+
+- Online workshops are more accessible as no need to organise travel and accommodation (V2).
+- Our Workshops are 1-2 days, running from 10am-4pm with 3 breaks amounting to 1.5 hours. We use this time schedule to be inclusive to people of different needs (V1).
+- Allow anonymous participation as anxiety is a barrier to learning (Sathy & Hogan, 2019).
+- Set etiquette at start of workshop to promote respect of each other and our differences (V1) (Muñiz, 2019).
+
+Active learning, Research-connected learning, and authentic assessment.
+
+- Teach digital fluency of UK environmental scientists via bioinformatics (A2 & V4).
+  - Vital to modern molecular biologists (K1) (Cao et al, 2020).
+  - Improves research and future employability (V4).
+- Produce research-connected training, sharing our research experiences, making it relevant and therefore improving understanding (Lu et al, 2017) (K2).
+- Active learning via self paced materials with theory, practice, MCQs, and exercises.
+  - Active learning is a central tenet of scientific teaching, a useful pedagogical framework for bioinformatics (K2, K3, K4, & V3) (Miller et al,  2008).
+- Authentic assessment through self-assessment.
+  - Students provided exercises with solutions allowing training-supported formative self-assessment which deepens learning (Andrade, 2019).
+  - We Provide learners with feedback when they ask for help. We can evaluate their solution and understanding (A3, & K5).
+
+Encourage confidence, global citizenship, and digital fluency of students
+
+- Workshop icebreakers helps establish a learning environment and introduce scientists in the same field to each other, helping global citizenship (V2 & V3) (Mustafa & Yukselturk, 2022).
+- Provide introductory workshops which act as prerequisites to future workshops (K2).
+  - Ease learners into bioinformatics promoting digital fluency and confidence (V1).
+- Provide online materials which promotes confidence with self-directed learning (A4, K4, V1, & V2) (Mello, 2016).
+
+## Feedback & conclusion
+
+<center>
+![](figures/gold.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+Feedback for this patch was very positive, agreeing that I utilise the the core value and six hallmarks of the Liverpool curriculum framework. Evidence of the success of this was asked about. In terms of inclusivity we get many comments saying the teachers were very friendly and approachable. Some of the best feedback we get are learners saying they went to a different workshop which they found confusing but our workshop made the topic clear. In fact, people enjoy our workshops so much they register for workshops in fields and topics they don't need for their research. They have said they do this because they find our workshops so informative and fun. This caused a problem for us because we want people who will benefit the most to attend each specific workshop. This would not be a problem if our workshops were not constantly oversubscribed but they are. Of course, our workshops being too popular is a nice problem to have compared to the real Midas touch.
+
+The primary benefit of this patch was linking my practices with the Liverpool curriculum framework. With this better codifying of my practices it allows me to reflect more clearly and improve. It has also made me think about my placement in higher education.
+
+I very much enjoy teaching workshops to postgrads and researchers. They are a lot more motivated compared to undergrads in my experience, in my experience of both. Bioinformatics feels unique in that there are very few biology undergraduates who seem interested in it. Naturally, postgraduates have a clearer view of what is required for research in their field.
+
+Although I enjoy what I do and do not necessarily want to change to undergrad teaching, it is useful to learn good practices I can incorporate into my form and style of teaching. Gaining skills and accreditations in pedagogy will also help my future career path. With the completion of this patch I feel more comfortable in my mittens (workshops) but I feel I can also fit into different gloves if needed or my role changes in the future (teaching modules).

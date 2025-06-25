@@ -1,0 +1,97 @@
+# (PART\*) Outro {.unnumbered}
+
+# The finish line
+
+<center>![](figures/finish_line.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}</center>
+
+I have been able to reflect and develop a lot during this module. I have enjoyed it even if it took a lot of time. In the end it has shown me how good a teacher I am, and how to further improve my teaching.
+
+## Evidence or: how I met descriptor 2 of the UKPSF
+
+<center>![](figures/evidence.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}</center>
+
+As well as proving to myself that I have improved, If I am to successfully to complete this PGCAP and gain FHEA I need to prove this to you, the reader and my examiner. Therefore this section will aim to demonstrate how I have met descriptor 2 of the UKPSF.
+
+I am the CGR training lead and a member of the NEOF training group (A1 & A2). I am the sole organiser, creator, and runner of CGR workshops. I get administration help and help from other staff member as demonstrators. As part of the NEOF training group I am also the main lead of some workshops but also help in workshops led by my colleagues. I have run over 50 workshops (1-5 days long), currently running/co-running \~12 a year.
+
+I give verbal feedback to students and encourage self-assessment through MCQs (A3). To motivate students I try to praise their efforts rather than success. Additionally, I try to not demotivate students by separating mistakes from them. I say "the mistake" rather than "your mistake". I encourage questions so I can provide feedback by being approachable and understanding (V4). I like to say "There is no such thing as a silly question, just silly answers by me".
+
+Prior to this PGCAP I completed the FLTHE (A5). I have read a lot of literature and am constantly improving my skills in pedagogy and bioinformatics. I have learnt environmental biology and python from my fellow team members and attending workshops myself. Inside and outside of this PGCAP I constantly discuss my teaching with my colleagues.
+
+I teach bioinformatics. I have a BSc in Microbiology and a MSc in Bioinformatics (K1). I also carry out a good amount of research in bioinformatics with 23 published papers. As part of my duties in CGR I was part of COG-UK (COVID-19 Genomics UK Consortium). This was the consortium that sequenced COVID-19 in the UK to track the spreading of all the strains.
+
+I teach with a blended learning approach, focussing primarily on active learning via strong materials which contain a variety of different activities (K2 & K3). I primarily teach online so I have invested heavily into learning and using good technologies (K4). These include Zoom, OBS, Slack, webVNC, and Bookdown. I Use active learning via self paced materials with theory, practice, MCQs, and exercises as it is a central tenet of scientific teaching, a useful pedagogical framework for bioinformatics (K2, K3, K4, & V3) (Miller et al, 2008).
+
+To evaluate my teaching I constantly ask for student feedback and measure their performance (K5). I use google forms as end of course surveys. I monitor their progress via the webVNC. Importantly I ensure they are comfortable to ask questions.
+
+My team and I constantly discuss feedback and use this to improve (K6). We have meetings where we discuss the feedback. We ask each other's opinions on our materials. Additionally, we will comment on each other's presentations. Through this I have made various improvements to my teaching such as improving onboarding, & adding LOs to my materials.
+
+I promote participation by creating a friendly and approachable environment (V2). I have many avenues of asking questions (voice, text, emails) so anxious learners feel comfortable to do so. I try to be welcoming to people from all cultures, sexes, races, classes etc. (V1) As an example I include my pronouns (he/him) in my Zoom name.
+
+I have incorporated many evidence-informed approaches (V3). Some include:
+
+-   Incorporating MCQ macro design strategies, such as interspersed answers (V3) (Söbke & Mosebach, 2020)
+-   Learner engagement through storytelling, case studies, and interesting context (K3 & V3)(Hoffer, 2020)
+-   Workshop icebreakers to help establish a learning environment and introduce scientists in the same field to each other (V2 & V3) (Mustafa & Yukselturk, 2022).
+-   Using SOLO and Bloom taxonomy for LOs of bioinformatics (V3 & K2) (Meerbaum-Salant et al., 2010).
+
+Bioinformatics is a very important skill in biology. It will help the research and employability of learners (V4). I have also started including Learning Outcomes into my materials which was an important part of changes and standardisation caused by the Bologna Declaration (1999) (V4).
+
+My main takeaways for improvement from this PGCAP are:
+
+-   Addition of MCQs in my materials
+-   Use of Learning outcomes
+-   Improving onboarding
+-   Evaluate effectiveness of my HTML materials
+-   Disseminate the good teaching practices I have for bioinformatics
+-   Improve my leadership and conflict management skills
+-   Gain more accreditations
+
+## UKPSF mappings
+
+<center>![](figures/mapping.png){style="width:100px; background: white; border-radius:15px; border: 5px white solid"}</center>
+
+Below are three tables showing in which patches (1-6) where I have mapped to the UKPSF.
+
+### Design and plan learning activities and/or programmes of study
+
+|  |  |  |  |  |  |  |
+|-----------------------------|-------|-------|-------|-------|-------|-------|
+| Patches | 1 | 2 | 3 | 4 | 5 | 6 |
+| A1: Design and plan learning activities and/or programmes of study | Y |  | Y | Y | Y | Y |
+| A2: Teach and/or support learning | Y |  | Y | Y | Y | Y |
+| A3: Assess and give feedback to learners | Y |  | Y | Y |  | Y |
+| A4: Develop effective learning environments and approaches to student support and guidance | Y | Y | Y | Y | Y | Y |
+| A5: Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practices | Y |  | Y | Y | Y | Y |
+
+### Core Knowledge
+
+|  |  |  |  |  |  |  |
+|----------------------------|--------|--------|--------|--------|--------|--------|
+| Patches | 1 | 2 | 3 | 4 | 5 | 6 |
+| K1: The subject material | Y |  | Y | Y | Y | Y |
+| K2: Appropriate methods for teaching, learning and assessing in the subject area and at the level of the academic programme | Y |  | Y | Y |  | Y |
+| K3: How students learn, both generally and within their subject/disciplinary area(s) | Y | Y | Y | Y | Y | Y |
+| K4: The use and value of appropriate learning technologies | Y | Y | Y | Y | Y | Y |
+| K5: Methods for evaluating the effectiveness of teaching | Y |  | Y |  | Y | Y |
+| K6: The implications of quality assurance and quality enhancement for academic and professional practice with a particular focus on teaching  |  |  | Y |  |  | Y |
+
+### Professional Values
+
+|  |  |  |  |  |  |  |
+|----------------------------|--------|--------|--------|--------|--------|--------|
+| Patches | 1 | 2 | 3 | 4 | 5 | 6 |
+| V1: Respect individual learners and diverse learning communities |  | Y | Y | Y | Y | Y |
+| V2: Promote participation in higher education and equality of opportunity for learners | Y | Y | Y | Y | Y | Y |
+| V3: Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development |  | Y | Y | Y | Y | Y |
+| V4 Acknowledge the wider context in which higher education operates recognising the implications for professional practice |  |  |  | Y | Y | Y |
+
+## The Podium
+
+<center>![](figures/champagne.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}</center>
+
+That is the end of my portfolio. As I have said many times, I believe myself to be an effective teacher. I have many good practices. I run many workshops. I am constantly trying to improve and keep up with the latest tools and research in my field. I have a great team at NEOF. I receive very good feedback from learners. They constantly say how they came out of our workshops with a much stronger level of understanding. Additionally, they also comment on how friendly and approachable we are.
+
+My job is primarily teaching and I am mainly autonomous in my role. I aim to become the CGR training manager. I already manage all the CGR bioinformatics training provisions. However, I do not have the authority to make major decisions and I do not have a team I lead. I will continue to work hard and smart to reach my goals.
+
+Through this PGCAP I have learnt a lot and reflected on a lot. It will be nice to have some time to absorb my learning and get back to some important work in my main role. I hope I have successfully demonstrated that I meet descriptor 2 of the UKPSF and you have somewhat enjoyed reading this portfolio. Thanks for reading.

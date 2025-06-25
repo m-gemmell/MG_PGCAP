@@ -1,0 +1,87 @@
+# (PART\*) Continuing Professional Development {-}
+
+# Where am I? or: Am I a teacher or a facilitator of learning?
+
+<center>
+![](figures/pendant.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+Quite a pedantic question but pedantry can be a bonus when teaching. I believe teachers are facilitators of learning and vice versa. Instead, the terms encourages us to reflect on our teaching style. Learning is the important thing, do what is best for the learners when you teach. It may seem obvious, but when you are creating materials or learning new teaching practices it is always better to ask "Will this improve the facilitation of learning?" rather than "Will this improve my teaching?".
+
+I believe myself to be an effective teacher. I receive a lot of positive feedback from learners. I have a lot of experience running workshops throughout my academic career. I have the time to teach, being in a ~90% teaching role, there is always non-teaching tasks to carry out. Very importantly to this PGCAP and this patch, I try to constantly improve my teaching in various ways.
+
+## Be kind, rewind
+
+<center>
+![](figures/vhs.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+I learnt my field and experienced a lot of good and poor teaching practices through my BSc in Microbiology and MSc in bioinformatics (K1). From the start of my academic career I was involved in running bioinformatic workshops. I have run over fifty 1-5 day workshops over my 8 years working in university genome centres. I am now the CGR (Centre for Genomic  Research) training lead (A1 & A2).
+
+My main role is being part of the NEOF training group. We teach environmental scientists how to use bioinformatics for their research. We effectively use multimedia through Zoom, OBS, Slack, webVNC, and HTML books to effectively carry out e-learning (Bikowski & Casal, 2018; Mayer, 2017).
+
+## The Present
+
+<center>
+![](figures/gift_tag.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+I have recently improved my teaching my carrying out the Foundations in Learning and Teaching in Higher Education (FLTHE) gaining Associate Fellow of the Higher Education Academy (AFHEA) (A5). I am now following this up with this PGCAP to become a FHEA. 
+
+Through this PGCAP I have learnt I teach with the following practices and principles:
+
+- Blended learning approach (K3).
+- String materials with variety of different activities (K2) (Bao, 2020).
+- Approachable and non-judgemental (A4) (Authment & Dormire, 2020).
+- Feedback to students is important (A3).
+  - Best to praise effort than success to motivate learners (Jenkins et al, 2015).
+- Mistakes are normal in bioinformatics (V2) (Hochanadel & Finamore, 2015).
+  - Learning debugging is vital (Li et al, 2019).
+- Do not trivialise difficulty of topic, it can lead to demotivation (V1) [Link](https://www.edutopia.org/article/3-phrases-can-demotivate-students-math-class/#:~:text=By%20calling%20something%20%E2%80%9Ceasy%2C%E2%80%9D,that%20something%20was%20%E2%80%9Ceasy.%E2%80%9D Links to an external site.).
+- Good materials to allow students to work at own pace is good for bioinformatics (Abrahamsson & Dávila López, 2021).
+
+## PGCAP Recap
+
+<center>
+![](figures/recap.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+Through the patches of this PGCAP I have found new ways to improve my teaching. This has been carried out through my own reflections and discussions with my colleagues (K6). Additionally, feedback from learners is extremely valuable (K5). These include:
+
+- Adding interactive MCQs into my e-materials.
+  - Act as formative assessment allowing leaner self-assessment (V3) (McCallum & Milner, 2021).
+  - Guides interrogation & interpretation of output from bioinformatics tools (K2).
+- Use of SOLO & Bloom taxonomy to make Learning Outcomes in line with Bologana Declaration (V4) (Meerbaum-Salant et al, 2010).
+- Improving onboarding at the start of workshops (Milner & Price, 2021).
+
+## The next step
+
+<center>
+![](figures/step.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+For the next stage of my teaching career I would like to become the CGR training manager. I describe this through a gap analysis:
+
+- Where am I now: NEOF trainer & CGR training lead.
+- What do I want to be?: CGR training manager.
+- What is the gap between where I am now and where I want to be?: Conflict management & Leadership skills. Gain accreditations such as FHEA.
+- What do I need to do?: Discuss and organise with higher ups. 
+
+As for how to improve my teaching I have the following 2 main points:
+
+- Improve feedback from students via better questions (K5).
+- Include videos to describe complicate concepts into my e-materials (K2, K3, & K4) (Brame, 2016).
+
+## Mountains & Valleys
+
+<center>
+![](figures/mountain_and_valley.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+Overall my feedback from my marker was positive. They were happy with my current progress and my plans for the future. They wondered what my plans for my next PGCAP module was. I am thinking of further improving my e-materials, through reflecting on feedback and finding different plug-ins I can use. One of these including adding more videos. I would also like to disseminate the use of e-materials via user group meetings and conferences. This would be incorporated with a guide on how I make mine.
+
+A major criticism of the patch was the lack of literature citations. I addressed this by adding citations in the feedback comments and I have cited these in this part of the portfolio. I did not include these as I initially thought the patch was more discussing our own thoughts and didn't need citations. Although I consider myself an excellent teacher I am still quite new to the field of pedagogy and humanities/social sciences in general.
+
+My maker asked about a Gap or SWOT analysis. I had included this but weaved it into the text. I addressed this in the feedback comments but have also made it more explicit in this part of the portfolio.
+
+Overall I am happy with my teaching. I have a lot of experience in teaching bioinformatics. I always aim to be the best teacher I can be. This PGCAP has obstructed my time to work on making more materials for NEOF but I am happy it has given me many points to improve on and helped me realise all the good practices I am already doing. Bad things have happened in my career and life but I have come far and I intend to keep going.

@@ -1,0 +1,62 @@
+# (PART\*) Pivotal Learning {-}
+
+# Curious Archive or: Books that question you
+
+<center>
+![](figures/question_book.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+In this patch I explore how to incorporate formative assessment into my materials. Due to the nature of my workshops I do not grade learners through assessments such as course work and exams. My learners come to the workshop and are then gone. To counteract this I am now adding Interactive Multiple Choice Questions in my HTML books (A5).
+
+## Benefits of formative assessment
+
+<center>
+![](figures/benefit.png){style="width:200px"}
+</center>
+
+Being a previous student can give you a disdain for assessments. However if done correctly formative assessment activities can:
+
+- Be beneficial and enjoyable for students (Adkins, 2018).
+- Help students monitor their progress and encourage further study (V2) (McCallum & Milner, 2021).
+- Incorporate aspects of a flipped classroom, decreasing cognitive load and supporting a diverse group of students in their learning (V1) (Cortese et al., 2022).
+
+## MCQs
+
+<center>
+![](figures/quiz.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+I am now incorporating interactive MCQs into my digital materials. These MCQs aim to improve the quality of learning (K6). The principles of MCQ design I use are:
+
+- Three answer options as the optimal amount (V3) (Rodriguez, 2005).
+- Incorporating macro design strategies, such as interspersed answers (V3) (Söbke & Mosebach, 2020)
+
+The specific benefits of digital MCQs for bioinformatics teaching are:
+
+- Practically feasible, and easily created by me.
+- Intuitive for learners, and provide instant feedback (K4) (Snekalatha et al., 2021).
+- Reattempting questions is allowed and is beneficial to learning (Zhang et al., 2021).
+- Perfect for reinforcing definitions & theory (K2).
+  - A lot of programming is using search engines with the correct terminology (K1).
+- Recap MCQs can reinforce terminology via repetition, promoting recall (K3) (Yang, 2019).
+- A vital skill to learn in data science is investigating the coding output (Via, 2022).
+  - MCQs can be used to ask learners to explore and interrogate output (K2).
+  - The MCQ options guide learners helping their progress (A4) (Kojo et al., 2018).
+  
+## Monitoring & further plans
+
+<center>
+![](figures/periscope.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+I am monitoring the usefulness and clarity of the MCQs and e-materials through verbal and written feedback (K5). This will allow me to reflect on and revise my materials (Foley, 2020). It is currently very positive but can be improved. I would like to create a diagnostic assessment in the future for learners to run through prior to the workshop (A3). This would allow me and the learner to know if they have the prerequisite skills to the correct level. If they do not they could run through prerequisite materials so they can reach the proficiency prior to the workshop (V1, V2) (McClatchy et al., 2020).
+
+## Feedback & conclusion
+
+<center>
+![](figures/feedback.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+Feedback I received for this patch was positive. The main question was the enquiry of the feedback I am receiving. In terms of metrics the MCQs primarily receive Excellent and Average results of a question "The use of the multiple choice questions was" (options are excellent, good, average, and poor) with no poor results. Although good, it trended towards the lower scale than our other questions. I have not received any specific comments yet. There are many of my other workshops that have not run with the added MCQs so I would like to await some judgement until I receive more feedback on them. In terms of the digital materials themselves we receive primarily good and excellent results for the coursebook, structure of the coursebook and its clarity. Some people still like to have a printed version which we provide.
+
+This patch has been very beneficial in my incorporation of formative assessments with the correct implementation. The in-material MCQs have been generally well received and I have noticed a lot less clarifying questions when it comes to interpreting output and exercises. It has been very beneficial in teaching them the noise from the signal. This is a big issue in bioinformatics output files that I naturally learnt and so have struggled to teach in the past.

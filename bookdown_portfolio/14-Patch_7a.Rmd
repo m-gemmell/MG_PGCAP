@@ -1,0 +1,467 @@
+# (PART\*) Professional discussion {.unnumbered}
+
+# Improv vs script reading or: how I best prepare for public speaking
+
+<center>
+![](figures/stage.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+For this patch I had a list of questions to prepare followed by an interview style discussion where I was asked some of the questions. This was a nice way to reflect on and discuss my teaching practices in a more informal manner.
+
+For this discussion I wrote out a list of notes for each question. I made them quite light and then practiced these answers a few times each. This is generally how I practice presentations and explanations. I don't use a script instead having points I can improvise from. This leads to a more natural way of talking without forgetting important details. I do not have the memory to go completely off the cuff. I also find it would be quite a disorganised conversation and I would probably jump about a lot. Equally, a script would not be good as I am not good at live reading, generally having an awkward rhythm and pronouncing words wrong. Instead, I am a more confident public speaker when I have practiced and I have a good structure to go from.
+
+## Q&A
+
+<center>
+![](figures/interview.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+Below are the questions we had for preparation and the notes I used for practicing and during the discussion.
+
+**Describe for us methods for monitoring and evaluating your own teaching practice that you have so far used in your current post and role.  How have any of these methods directly impacted on your own practice to date?**
+
+-   Main methods I use are:
+
+    -   Learner feedback via google forms
+
+    -   Asking colleagues/discussions/proof reading
+
+    -   Watching recordings
+
+-   Feedback forms
+
+    -   Scale based questions: pace of course, usefulness of course
+
+    -   Essay questions: What did you like? What can be improved?
+
+    -   Has helped spot concepts that are tough and not explained well enough
+
+    -   What areas need more focus
+
+-   Asking colleagues/discussion/proof reading
+
+    -   Good to discuss materials
+
+    -   type/mistake spotting
+
+-   Recordings
+
+    -   Am I clear
+
+    -   is my pace good
+
+**How have you made use of the support of professional colleagues, and mentor if you have one, in respect of your own teaching performance to date?  Can you discuss any evidence of how such support has been used by you to develop the effectiveness of your teaching?**
+
+-   Different ways
+
+    -   Observation of teaching & feedback
+
+    -   Producing courses as a team
+
+    -   Being pointed to literature
+
+-   Observation & feedback
+
+    -   Inside & outside of FLTHE & PGCAP
+
+    -   Improve onboarding of course & including learning outcomes which I have started
+
+    -   Is my speech clear & well paced
+
+-   Team course production
+
+    -   Fixed many typos/mistakes
+
+    -   See their style
+
+    -   Test my analogies
+
+    -   I have learned from them about their expertise (e.g. python)
+
+**What impact has C2021 had on your curriculum planning and design and/or developing your teaching practices over the module?**
+
+-   Helped me contextualise
+
+-   Inclusivity, digital fluency, global citizenship, confidence, active learning, research-connected teaching, & authentic assessment
+
+-   Inclusivity
+
+    -   Online, self-paced, friendly, easy-access, unobstructive language
+
+-   Digital fluency
+
+    -   Teaching bioinformatics
+
+-   Global citizenship
+
+    -   Ice breakers & other means to facilitate networking
+
+-   Confidence
+
+    -   Encourage effort, mistakes are normal
+
+-   Active learning
+
+    -   Leaners run through example workflows
+
+-   Research-connected teaching
+
+    -   Teach bioinformatics of molecular biology, environmental sciences, & microbiology. Based on research we and NERC does.
+
+    -   Use real world examples from literature in our workshops.
+
+-   Authentic assessment
+
+    -   Primarily self-assessment
+
+    -   Something I consider including more of
+
+**Can you describe to us one or two examples of your own contribution to the design and planning of learning activities or programmes of study?  How have you evaluated the effectiveness of these?**
+
+-   Creating materials for various workshops
+
+    -   Theory
+
+    -   Practice
+
+    -   Exercises
+
+    -   Text split by images
+
+        -   Icons as text breaks & landmarks
+
+        -   Figures to demonstrate datasets & concepts
+
+    -   Feedback
+
+        -   How good are materials
+
+        -   Running through them myself
+
+-   MCQs
+
+    -   2 kinds
+
+        -   Formative assessment & recap rather than text recaps
+
+        -   Directive MCQs: Assist in how to interpret output generally with obvious answer
+
+    -   Feedback
+
+        -   How many questions we get about the output & learners' understanding.
+
+**What principles have you used to guide your own assessment of students, and giving feedback to them? Tell us how you have tried to develop these aspects of your practice during the course of the module?**
+
+-   I assess students in 3 ways
+
+    -   Self-evaluation
+
+    -   Ensuring students ask for help
+
+    -   Tracking their progress
+
+-   Self-evaluation
+
+    -   Formative assessment Q & MCQs
+
+    -   Exercise with solutions
+
+        -   Explicit & clear to students
+
+        -   Fit for purpose
+
+        -   Aligned to LOs
+
+-   Ensuring students ask for help
+
+    -   Inclusive
+
+        -   Give many ways to ask so anxious people people or people with a lower grasp of English are included
+
+-   Tracking their progress
+
+    -   Patrol desks
+
+    -   Look at the online workspace
+
+    -   Doable with realistic workload by ensuring we have enough demonstrators
+
+**How and why have you extended your knowledge of the subject matter that you have been teaching, or to make it more accessible to specific students?**
+
+-   Three main ways
+
+    -   Keeping up to date with best practices by lit/community
+
+    -   Learning different area from my colleagues
+
+    -   Incorporating lessons from my own research
+
+-   Keeping up to date
+
+    -   I read literature & new websites about workflows
+
+    -   Sequencing tech improves & innovates leading to new bioinformatics tools
+
+    -   Need to keep up
+
+-   Learning from colleagues
+
+    -   A lot to learn by myself
+
+    -   Learnt python and environmental biology
+
+    -   These are very desirable and useful for research & employability
+
+-   Incorporating lessons from my own research
+
+    -   Know what can be useful to learn from my own research
+
+**Which models of ‘how students learn’ have you found helpful to your developing practice during the module?  Try to make clear the extent to which these reflect specific requirements of your own subject or field.**
+
+-   Deep learning & surface learning
+
+    -   Cognitive load balance
+
+    -   Just enough without going into minutiae
+
+    -   Bookdown, variation of tasks, avoid walls of text
+
+    -   Surface learning for extra resources
+
+-   Bloom's taxonomy & SOLO for LOs
+
+    -   Bloom bad for computational biology
+
+    -   Bloom & SOLO is good proposal
+
+-   Growth vs Fixed mindset
+
+    -   Praise effort
+
+    -   Encourage Qs, friendly, inclusive
+
+    -   Mistakes are normal
+
+        -   Emphasise that fixing mistakes & debugging are vital skills
+
+**What has been the range of learning technologies that you have so far made use of in your own practice?  What do you now see as being the strengths and limitations of these technologies for your own particular teaching purposes?**
+
+-   OBS & Zoom, Slack, webVNC, & bookdown
+
+-   OBS & Zoom
+
+    -   Can easily switch what I show
+
+        -   Presentation, coding, webcam
+
+    -   Record only me
+
+    -   Requires good computer
+
+    -   Private rooms
+
+-   Slack
+
+    -   Can share text links
+
+    -   Text Qs in channel or DM
+
+-   webVNC
+
+    -   A computer workspace we can setup
+
+    -   Can look at people's workspace & take over if needed
+
+-   Bookdown
+
+    -   Create good structured html books
+
+    -   Not easily printable
+
+    -   Include widgets such as YouTube links and MCQs
+
+-   Requires a lot of management & a good computer
+
+**In what ways has your teaching been affected by the learning environments (physical, virtual or mix) in which your practice has been located? Can you describe to us ways in which you have sought to develop these to better match the needs of learners?**
+
+-   Going to online remote teaching
+
+    -   Providing prerequisite materials
+
+    -   More accessible
+
+    -   Breaking barriers to teaching
+
+-   Prerequisite materials
+
+    -   HTML book
+
+    -   Private YouTube videos
+
+    -   Giving early access to webVNCs
+
+-   More accessible online
+
+    -   Work from anywhere in UK
+
+    -   Tuesday & Thursday
+
+        -   Break day allows work at their own pace
+
+-   Breaking online barriers
+
+    -   webVNC
+
+    -   Multiple ways to ask questions
+
+    -   encouraging participation
+
+    -   Networking
+
+**Tell us what you understand by the notion of ‘respect for the student’.  Give us a specific example in which you have sought to demonstrate such ‘respect’ in your own developing practice.**
+
+-   Respect for the student
+
+    -   Each student is an individual
+
+    -   Be empathetic
+
+    -   Listen and try to understand them
+
+    -   Encourage and give them the opportunity to learn by themselves
+
+    -   Respect differences (class/race/sex etc.)
+
+    -   Praise the effort
+
+    -   Concerned
+
+    -   Share your own experiences
+
+    -   Behave, don't be inappropriate in actions or words
+
+-   When asked a question by a student
+
+    -   e.g. what does N50 mean
+
+    -   Don't complain and say you explained it already
+
+    -   ask them what they understand
+
+    -   clear any misconceptions that may be impeding learning
+
+    -   If they don't understand an explanation don't repeat yourself, try another tact.
+
+    -   gauge their understanding at the end with the same questions.
+
+**In what ways have you tried to ensure that your practice takes account of the varying needs amongst your students?  How do these aspects of your practice reflect your own concerns for widening participation in higher education?**
+
+-   Three things to keep in mind
+
+    -   Differing levels of experiences & aptitude in my field
+
+    -   Creating a welcoming, approachable, & inclusive environment
+
+    -   Try to use good stories & examples all the learners will understand
+
+-   Levels of experience
+
+    -   Pre-workshop resources to prepare learners (keep up motivation)
+
+    -   Main materials at a good introductory level
+
+    -   Include extra resources & materials e.g. extra exercises for more advanced learners (don't want them bored and unengaged)
+
+-   Welcoming & inclusive environment
+
+    -   Help decrease barriers for anxious
+
+    -   No discrimination
+
+-   Use good examples
+
+    -   Make sense to the subject area
+
+    -   Motivate & engage students
+
+    -   Pick something that is easily understood
+
+**What has been your involvement in quality assurance procedures in relation to teaching and learning?  Tell us what have been the direct implications of these involvements for your own practice.**
+
+-   3 main involvements
+
+    -   Student feedback & team discussion
+
+    -   Reading & testing materials
+
+    -   Keeping track of issues during course
+
+-   Feedback & discussion
+
+    -   Going through feedback with team to determine success of workshop
+
+    -   Try to decipher feedback
+
+    -   Determine if feedback is useful
+
+    -   Students said course was not what they expected (too basic), therefore incorporate LOs into course descriptions
+
+-   Read & test materials
+
+    -   typos
+
+    -   mistakes
+
+    -   grammar
+
+    -   explorations
+
+    -   Ensure the code is working
+
+-   Keep track of issues
+
+    -   What Qs are asked
+
+    -   Where do people get stuck
+
+    -   Adding MCQs to direct people on interpretation of output
+
+**Outline to us a piece of literature, article or book around the scholarship in teaching, either generally or within your discipline which you have found of value. How has this text influenced your own teaching practices during the course of the module?**
+
+-   Phil Race's the Lecturer's toolkit
+
+    -   Easier to avoid poor teaching practices as many good ways to teach
+
+    -   Student's emotions are important, give them positive feedback
+
+    -   Phrase things as:
+
+        -   There is the mistake/type
+
+        -   Not: There is your mistake
+
+    -   Don't trivialise tasks, don't use phrase like "just do it this way", "it is easy"
+
+    -   Make learners want to learn
+
+        -   A difficult topic can't be made easy, but earning can
+
+        -   Show usefulness of course
+
+**Would you like to tell us one thing that you are particularly proud of in your teaching practices during time you have been completing the ADEV700/710 module? Have you disseminated this, or other aspect of your teaching practices, to your team/department/faculty/externally?**
+
+-   Bookdown
+
+    -   HTML
+
+    -   Github
+
+    -   MCQs
+
+## Review
+
+<center>
+![](figures/review.png){style="width:200px; background: white; border-radius:15px; border: 5px white solid"}
+</center>
+
+The preparation, discussion, and marker feedback were all positive and fruitful. I hope my passion for teaching and the pride in my work came through. My marker feedback indicates that is the case which I am happy about. The feedback also encouraged me to try to further disseminate my work and evaluating my workbooks for my next PGCAP module. I think this is a great idea and what I will use it for my research project.
